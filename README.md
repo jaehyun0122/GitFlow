@@ -40,15 +40,15 @@ feature에서 작업한 내용을 develop
 
 ---
 # Git flow 실습
-### 1. feature branch
+## 1. feature branch
 1. git checkout -b feature
 2. 작업 후 add & commit
 
-### 2. develop branch
+## 2. develop branch
 1. develop에서 feature merge / git merge feature
 2. git add & commit
 
-### 3. master branch
+## 3. master branch
 1. git pull origin master
 2. develop merge / git merge develop
 3. conflict 있으면 해결
