@@ -54,3 +54,5 @@ feature에서 작업한 내용을 develop
 3. conflict 있으면 해결
 4. git add & commit
 5. git push origin master
+
+master에서 수정
