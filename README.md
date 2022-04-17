@@ -38,4 +38,7 @@ feature에서 작업한 내용을 develop
 
 출처: <https://ifuwanna.tistory.com/283> [IfUwanna IT]
 
-## 1. feature branch 
+---
+# Git flow 실습
+### 1. feature branch 생성
+git checkout -b feature
