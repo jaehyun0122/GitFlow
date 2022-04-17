@@ -41,4 +41,4 @@ feature에서 작업한 내용을 develop
  1. feature branch // develop branch에서 수정
  2. develop branch
 
-// 원격 저장소에서 수정
+ 3. develop branch commit 후 로컬과 원격저장소 master에서 충돌확인
