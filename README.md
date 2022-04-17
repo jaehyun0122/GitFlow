@@ -38,4 +38,5 @@ feature에서 작업한 내용을 develop
 
 출처: <https://ifuwanna.tistory.com/283> [IfUwanna IT]
 
-## 1. feature branch 
+ 1. feature branch 
+ 2. develop branch
