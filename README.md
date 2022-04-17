@@ -38,7 +38,6 @@ feature에서 작업한 내용을 develop
 
 출처: <https://ifuwanna.tistory.com/283> [IfUwanna IT]
 
- 1. feature branch // develop branch에서 수정
- 2. develop branch
-
- 3. develop branch commit 후 로컬과 원격저장소 master에서 충돌확인
+# Git flow 실습
+### 1. feature branch 생성
+git checkout -b feature
