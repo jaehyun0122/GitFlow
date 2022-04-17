@@ -41,6 +41,7 @@ feature에서 작업한 내용을 develop
 ---
 
 # Git flow 실습
+## master branch의 내용을 다른 branch에서 최신을 유지하기 위해 master branch를 merge해준다
 ## 1. feature branch
 1. git checkout -b feature
 2. 작업 후 add & commit
